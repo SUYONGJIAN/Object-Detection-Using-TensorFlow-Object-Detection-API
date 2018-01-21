@@ -6,6 +6,8 @@ These are the files you need mainly for preprocessing data, defining hyper param
 
 For the detailed explaination about the data, project and how i implemented it, refer to my video [here](https://www.youtube.com/watch?v=ZxYBdLQgGbw). (Pardon my voice lol)
 
+Please note that you need to download TensorFlow Object Detection API. For instructions and how to get started, kindly refer to this YouTube playlist by Sentdex [here](https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku). I have largely followed his tutorials for this project.
+
 The coordinates are actually 4 numbers that respectively corresponds to:
 1) normalized center x coordinate
 2) normalized center y coordinate
